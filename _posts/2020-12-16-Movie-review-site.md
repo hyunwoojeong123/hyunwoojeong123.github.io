@@ -1,6 +1,6 @@
 ```yaml
 title: 영화 리뷰 사이트 제작 후기
-tags: Vue,Django,Project
+tags: Vue Django Project
 ```
 
 
