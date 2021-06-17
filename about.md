@@ -14,7 +14,7 @@ titles:
   zh-Hant : &ZH_HANT  關於
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
-  ko      : &KO       소개
+  ko      : &KO       
   ko-KR   : *KO
   fr      : &FR       À propos
   fr-BE   : *FR
@@ -26,5 +26,13 @@ titles:
 key: page-about
 ---
 
-소개페이지
+
+
+![image-20210618043051300](about.assets/image-20210618043051300.png)
+
+![image-20210618043106838](about.assets/image-20210618043106838.png)
+
+![image-20210618043127646](about.assets/image-20210618043127646.png)
+
+![image-20210618043139961](about.assets/image-20210618043139961.png)
 
